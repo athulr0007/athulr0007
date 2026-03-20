@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @athulr
 - 👀 I’m interested in ... web designing, Ai, Ml
-- 🌱 I’m currently learning ...ract,node
+- 🌱 I’m currently working with ...React, Node
 - 💞️ I’m looking to collaborate on projects related to mern stack
 - 📫 How to reach me ... you can reach me on LinkedIn(https://www.linkedin.com/in/athulr4j) or via email (athulr1230@gmail.com)
 - 😄 Pronouns: ...He/Him
